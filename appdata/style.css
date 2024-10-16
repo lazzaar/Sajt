@@ -50,3 +50,10 @@ a {
 a:hover {
     color: #262530;
 }
+#zadaci {
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    text-shadow: 2px 2px 2px red;
+    font-size:30px;
+}
